@@ -34,22 +34,23 @@
     export const HOME_PAGE_CONTENT = {
   "title": "Innovative Leader in Telecommunications",
   "seoBlock": {
-    "title": "Sean Edwards - Telecom Innovator",
+    "title": "Sean Edwards: Telecom Innovator",
     "description": "Discover Sean Edwards' impact in telecommunications and community leadership."
   },
   "mainBlock": {
     "title": "Innovative Leader in Telecommunications",
-    "text": "Welcome to the professional home of Sean Edwards, a visionary leader in the telecommunications industry and a dedicated community advocate. As the President of Rittenhouse Communications Group, Sean has revolutionized smart building technology, offering integrated solutions that enhance efficiency and connectivity. His journey from the culinary arts to telecommunications exemplifies adaptability and a relentless pursuit of excellence. Based in Philadelphia, Sean is committed to leveraging technology to improve lives while actively contributing to his community. Explore how his innovative approach and client-first philosophy have positioned him as a trusted authority in the field."
+    "text": "Welcome to the professional home of Sean Edwards, a visionary leader in the telecommunications industry and a dedicated community advocate. As the President of Rittenhouse Communications Group, Sean has transformed the landscape of smart building technology, offering integrated solutions that redefine efficiency and user experience. His journey from the culinary arts to telecommunications is a testament to his adaptability and commitment to innovation. Based in Philadelphia, Sean is not only a pioneer in technology integration but also a passionate supporter of local initiatives, contributing to the community through various philanthropic efforts. Explore how Sean's leadership and forward-thinking approach continue to shape the future of telecommunications and community development."
   },
   "keysBlock": {
     "title": "Key Expertise",
     "items": [
       "Smart building technology integration and innovation",
       "Customized telecommunications solutions for diverse clients",
-      "Leadership in IoT and automation advancements",
-      "Community engagement and philanthropic initiatives"
+      "Community engagement and philanthropic leadership",
+      "Development of IoT applications like PropKey",
+      "Mentorship and leadership in technology sectors"
     ],
-    "footer": "Discover more about Sean's transformative work and community impact."
+    "footer": "Discover more about Sean's innovative solutions and community impact."
   }
 };
 
@@ -65,18 +66,18 @@
   },
   "mainBlock": {
     "title": "More About Sean Edwards",
-    "text": "Sean Edwards is a dynamic leader in the telecommunications industry, known for his innovative approach and community involvement. His career began in the culinary arts, where he honed skills in discipline and resilience. Transitioning to sales and marketing in 2001, Edwards discovered his knack for connecting with people and understanding their needs, which laid the foundation for his success in telecommunications. In the early 2000s, he joined a Unified Communications firm, gaining invaluable experience in technology infrastructure and leadership. In 2009, he founded Rittenhouse Communications Group (RCG), aiming to streamline technology integration in multi-family and commercial buildings. Under his leadership, RCG has become a leader in smart building technology, known for its client-first philosophy and innovative solutions like PropKey, a mobile app enhancing IoT integration. Beyond business, Edwards is deeply committed to his Philadelphia community, serving on various boards and supporting veterans and educational programs. His story is one of adaptability, vision, and a commitment to making a meaningful impact."
+    "text": "Sean Edwards is a distinguished leader in the telecommunications industry, renowned for his innovative approach and commitment to community development. His career began in the culinary arts, where he honed skills in discipline and resilience. Transitioning to sales and marketing in 2001, Edwards quickly excelled by leveraging his ability to connect with clients and understand their needs. This adaptability paved the way for his entry into telecommunications, where he gained invaluable experience in technology integration and infrastructure.\n\nIn 2009, Edwards founded Rittenhouse Communications Group (RCG), aiming to revolutionize technology deployment in multi-family and commercial buildings. Under his leadership, RCG has become a leader in smart building technology, known for its client-first philosophy and innovative solutions like PropKey, a mobile app enhancing IoT integration. Beyond business, Edwards is deeply committed to his Philadelphia community, serving on various boards and supporting veterans and educational programs. His story is one of vision, adaptability, and a relentless drive to make a meaningful impact."
   },
   "keysBlock": {
     "title": "Core Values & Approach",
     "items": [
       {
         "name": "Client-Centric Innovation",
-        "description": "Prioritizing client needs to deliver tailored, impactful technology solutions."
+        "description": "Prioritizing client needs to develop tailored, impactful technology solutions."
       },
       {
         "name": "Community Commitment",
-        "description": "Actively engaging in community initiatives to give back and support local development."
+        "description": "Actively engaging in initiatives that support local development and well-being."
       },
       {
         "name": "Resilience and Adaptability",
@@ -84,14 +85,14 @@
       },
       {
         "name": "Mentorship and Leadership",
-        "description": "Fostering a culture of growth and learning within the organization and beyond."
+        "description": "Fostering a culture of growth and learning within the organization."
       },
       {
         "name": "Visionary Thinking",
-        "description": "Anticipating market trends to stay ahead in smart building technology."
+        "description": "Anticipating market trends to stay ahead in technology integration."
       }
     ],
-    "footer": "Sean Edwards also engages in speaking, mentoring, and writing to share his insights and experiences."
+    "footer": "Sean Edwards is also a sought-after speaker and mentor, sharing insights on technology and leadership. Connect with him to explore collaboration opportunities."
   },
   "footer": "Ready to Transform Your Technology Solutions? Connect with Sean Edwards Today."
 };
